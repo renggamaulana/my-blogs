@@ -1,0 +1,16 @@
+{
+    "blogs" : [
+        {
+            "title" : "My First Blog",
+            "body" : "Why do we need to learning programming? isn't that hard? yeah actually, but it's worth it!!! ",
+            "author" : "mario",
+            "id" : 1
+        },
+        {
+            "title" : "Opening Party!",
+            "body" : "Today is the day!! don't forget to come and join us for your saturday night!",
+            "author" : "mario",
+            "id" : 2
+        }
+    ]
+}
